@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "variableArguments",
+            "request": "launch",
+            "mainClass": "Method.variableArguments",
+            "projectName": "Java-Practice_8f6e4bd4"
+        },
+        {
+            "type": "java",
+            "name": "method",
+            "request": "launch",
+            "mainClass": "Method.method",
+            "projectName": "Java-Practice_8f6e4bd4"
+        },
+        {
+            "type": "java",
             "name": "quizDoubt",
             "request": "launch",
             "mainClass": "branching.quizDoubt",
